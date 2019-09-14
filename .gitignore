@@ -1,36 +1,12 @@
-.idea
-*.class
-*.iml
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-.settings
-.settings/*
-.classpath
-.project
-target
-target/*
-classes
-classes/*
-LOG_HOME_IS_UNDEFINED
-LOG_HOME_IS_UNDEFINED/*
-
-GenerateCodeApplication.java
-
-rebel.xml
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-logs
-logs/*
-
-*.rebel-remote.xml
-*.rebel-remote.xml.bak
-*.rebel.xml.bak
-*Mine_*
-.history
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+spring-boot-example.iml
+springboot-dao/springboot-dao.iml
+springboot-dao/target/
+springboot-entity/springboot-entity.iml
+springboot-entity/target/
+springboot-service/springboot-service.iml
+springboot-service/target/
+springboot-web/springboot-web.iml
+springboot-web/target/
